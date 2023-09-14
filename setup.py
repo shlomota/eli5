@@ -36,7 +36,7 @@ setup(
         'numpy >= 1.9.0',
         'scipy',
         'six',
-        'scikit-learn >= 0.20',
+        'scikit-learn == 0.21.3',
         'graphviz',
         'tabulate>=0.7.7',
     ],
